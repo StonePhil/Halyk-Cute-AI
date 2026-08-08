@@ -28,3 +28,10 @@ halyk-ai-challenge/
 ├── requirements.txt
 └── main.py
 ```
+
+Inside the GitIgnore
+
+```markdown
+!src/.env
+!test-data/interleaved/
+```
